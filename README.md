@@ -12,7 +12,7 @@ Il presente pacchetto contiene un'applicazione CRA il quale implementa l'automa 
 Clone the project
 
 ```bash
-  git clone https://github.com/dominicus-io/gof.git
+  git clone https://github.com/dominicus-io/gol.git
 ```
 
 Go to the project directory
